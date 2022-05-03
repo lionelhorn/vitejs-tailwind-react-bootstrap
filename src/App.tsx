@@ -15,6 +15,9 @@ function App() {
             count is: {count}
           </button>
         </p>
+        <div className={"bg-blue-400"}>
+          This div is styled using Tailwind.
+        </div>
         <p>
           Edit <code>App.tsx</code> and save to test HMR updates.
         </p>
